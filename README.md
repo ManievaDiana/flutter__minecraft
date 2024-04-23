@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+![Снимок экрана 2024-04-23 101557](https://github.com/ManievaDiana/flutter__minecraft/assets/166127964/d208fe34-a709-4a7e-bef4-2fa051bc2d78)
+
+A creeper is a common hostile mob that silently approaches players and then explodes, which can destroy blocks and kill unarmored players on any difficulty (except for peaceful).
